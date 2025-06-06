@@ -1,9 +1,9 @@
-# SungSu-ho-MD 
+# ALM-MD 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Mr SungSu 🌝💚
 <p align="center">
-  <img src="https://files.catbox.moe/vcofni.jpg" />
+  <img src="https://files.catbox.moe/k0b770.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -118,11 +118,11 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF SungSuho-MD 
+> DEVELOPER OF ALM-MD 
 - [Mr SungSu ](https://github.com/NaCkS-ai)
-- Creater and Owner Of SungSu-ho-MD 
+- Creater and Owner Of ALM-MD 
 
-> SungSu-ho-MD Helper
+> ALM-MD Helper
 - [Malvin King](https://github.com/XdKing2)
 - For helping in bot plugin files.
 ---
